@@ -3,7 +3,7 @@
 class Dog
   
   
-  def initialize(arg1,arg2)
+  def initialize(bark, sit)
     @bark = bark
     @sit = sit
     puts "Woof!"
