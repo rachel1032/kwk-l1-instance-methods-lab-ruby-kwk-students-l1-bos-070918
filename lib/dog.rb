@@ -8,7 +8,7 @@ end
     puts "Woof!"
   end
   
-  def initialize(sit)
-    @sit = sit
+  def initialize(arg2)
+    @sit = arg2
     puts "The Dog is sitting"
   end
