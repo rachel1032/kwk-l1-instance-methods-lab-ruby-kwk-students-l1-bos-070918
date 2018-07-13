@@ -2,5 +2,3 @@
 
 class person
   
-  attr_reader
-  attr accessor
