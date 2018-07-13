@@ -4,7 +4,7 @@ class Dog
   attr_reader
   attr_accessor
   
-  def initialize(arg1, arg2)
+  def initialize(arg1,arg2)
     @bark = arg1
     @sit = arg2
     puts "Woof!"
