@@ -3,10 +3,10 @@
 class Dog
 end
   
-  def Dog(bark)
+  def Dog(#bark)
     puts "Woof!"
   end
   
-  def Dog(sit)
+  def Dog(#sit)
     puts "The Dog is sitting"
   end
