@@ -1,10 +1,12 @@
 # dog.rb
 
 class Dog
-
+  attr_reader
+attr_accessor
   
   def initialize(arg1)
     @bark = arg1
+    @sit 
     puts "Woof!"
   end
   
