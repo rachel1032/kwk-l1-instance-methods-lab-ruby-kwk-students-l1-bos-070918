@@ -8,7 +8,7 @@ end
     puts "Woof!"
   end
   
-  def Dog(sit)
+  def initialize(sit)
     @sit = sit
     puts "The Dog is sitting"
   end
