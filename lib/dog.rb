@@ -1,8 +1,7 @@
 # dog.rb
 
 class Dog
-  attr_reader 
-  attr_accessor :bark, :sit
+  
   
   def initialize(arg1,arg2)
     @bark = arg1
